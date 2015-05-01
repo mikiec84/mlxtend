@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/rasbt/mlxtend.svg?branch=dev)](https://travis-ci.org/rasbt/mlxtend)
+[![Coverage Status](https://coveralls.io/repos/rasbt/mlxtend/badge.svg)](https://coveralls.io/r/rasbt/mlxtend)
 [![PyPI version](https://badge.fury.io/py/mlxtend.svg)](http://badge.fury.io/py/mlxtend)
 ![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
 ![Python 3.4](https://img.shields.io/badge/python-3.4-blue.svg)
